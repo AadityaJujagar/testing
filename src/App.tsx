@@ -1,3 +1,3 @@
 export const App = () => {
-  return <div>Git Team set with devs</div>;
+  return <div>Changes by dev</div>;
 };
